@@ -1,10 +1,11 @@
-const CACHE_NAME = "extensao-cache-v2";
+const CACHE_NAME = "extensao-cache-v6";
 
 const ARQUIVOS_LOCAIS = [
     "./",
     "./index.html",
     "./main.js",
     "./manifest.webmanifest",
+    "./img/materiais-escolares.png",
     "./icons/icon-192.png",
     "./icons/icon-512.png",
 ];

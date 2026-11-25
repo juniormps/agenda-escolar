@@ -1,11 +1,11 @@
 {
-  "name": "Projeto de Extensão — Entidade X",
-  "short_name": "Extensão Web",
-  "start_url": "/",
-  "scope": "/",
+  "name": "Agenda Escolar",
+  "short_name": "Agenda Escolar",
+  "start_url": "./",
+  "scope": "./",
   "display": "standalone",
-  "background_color": "#ffffff",
-  "theme_color": "#0ea5e9",
+  "background_color": "#f8fafc",
+  "theme_color": "#0f2f5f",
   "icons": [
     {
       "src": "icons/icon-192.png",
